@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AC340844-5EB3-897F-79F2-F921ECB25C09}") = "Neon Blitz Demo", "Assembly-CSharp-vs.csproj", "{E394790B-A2AC-EF8A-1B94-16A5BC03514C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E394790B-A2AC-EF8A-1B94-16A5BC03514C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E394790B-A2AC-EF8A-1B94-16A5BC03514C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E394790B-A2AC-EF8A-1B94-16A5BC03514C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E394790B-A2AC-EF8A-1B94-16A5BC03514C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+										GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+
+EndGlobal

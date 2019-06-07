@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 3dec056fd9796ac4996f0ae370d0c8fd
+timeCreated: 1474815935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_FX_Explosion_0015_0
+    21300002: Sprite_FX_Explosion_0015_1
+    21300004: Sprite_FX_Explosion_0015_2
+    21300006: Sprite_FX_Explosion_0015_3
+    21300008: Sprite_FX_Explosion_0015_4
+    21300010: Sprite_FX_Explosion_0015_5
+    21300012: Sprite_FX_Explosion_0015_6
+    21300014: Sprite_FX_Explosion_0015_7
+    21300016: Sprite_FX_Explosion_0015_8
+    21300018: Sprite_FX_Explosion_0015_9
+    21300020: Sprite_FX_Explosion_0015_10
+    21300022: Sprite_FX_Explosion_0015_11
+    21300024: Sprite_FX_Explosion_0015_12
+    21300026: Sprite_FX_Explosion_0015_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 0.18
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 749
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 741
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 733
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 728
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_4
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 721
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_5
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 713
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 458
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_7
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 450
+        width: 224
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 442
+        width: 240
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 434
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_10
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 426
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 288
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 80
+        width: 304
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sprite_FX_Explosion_0015_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 72
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

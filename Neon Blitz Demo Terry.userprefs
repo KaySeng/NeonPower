@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Neon Blitz Demo Terry.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Unit01.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Unit01.cs" Line="93" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

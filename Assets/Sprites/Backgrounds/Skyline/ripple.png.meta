@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 7bcb8409b264cdd4a8d3c0132200ea17
+timeCreated: 1475249975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ripple_0
+    21300002: ripple_1
+    21300004: ripple_2
+    21300006: ripple_3
+    21300008: ripple_4
+    21300010: ripple_5
+    21300012: ripple_6
+    21300014: ripple_7
+    21300016: ripple_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 0.2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ripple_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 448
+        width: 144
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 398
+        width: 147
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 351
+        width: 159
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 298
+        width: 158
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 251
+        width: 173
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 203
+        width: 193
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 146
+        width: 182
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 94
+        width: 185
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ripple_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 42
+        width: 170
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
