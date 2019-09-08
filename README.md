@@ -20,3 +20,18 @@ Original Assets: Player sprites (Unit-01 from Evangelion) was done by us Backgro
 ## What is the game?
 
 Neon Power Blitz will be a 2D 1v1 physics fighting game where the only way to damage the opponent is to hit a ball that will fly into the opponent or build meter to activate your ultimate ability. 
+
+## Feature Set
+* Hand-drawn sprites
+* Hand-made backgrounds
+* Music from Ultimate Marvel vs Capcom 3
+* SFX from Gundam series
+* Mulitple Stages
+* Ultimate Abilities
+
+## Gameplay
+Neon Power Blitz is a 2D arena fighting video game where players will face each other in a 1v1 battle. The goal is to hit a ball back and forth, and have the ball hit other players until one raise to victory.
+
+## Extra
+* This game can only be play by 2 players
+* The user can play the game using the keyboard, Xbox controller and ps4 controller.
