@@ -1,4 +1,6 @@
 # NeonPower
+
+## Overview
 Unity3D Lethal-League Like Game
 
 A Lethal-League Clone created in Unity3D by Terry Nguyen & Kuong-Iy Seng
@@ -14,3 +16,7 @@ There aren't many tutorials or resources that we could find that have similar pl
 Borrowed Assets: Music from Ultimate Marvel Vs Capcom 3 SFX from Gundam Repositories SFX from Street Fighter 2 Turbo Illustrations from various online websites Various scripts online Background Illustrations from various sources
 
 Original Assets: Player sprites (Unit-01 from Evangelion) was done by us Background items done by Us (train cart, Snow platform) Scripting was 90% done by us
+
+## What is the game?
+
+Neon Power Blitz will be a 2D 1v1 physics fighting game where the only way to damage the opponent is to hit a ball that will fly into the opponent or build meter to activate your ultimate ability. 
