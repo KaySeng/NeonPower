@@ -1,6 +1,7 @@
 # NeonPower
 
 http://www.lightontheland.net/NPB/NPB.html
+* Press 'Esc' key to skip the intro
 
 ## Overview
 Unity3D Lethal-League Like Game
